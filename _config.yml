@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Hoang Nam Le"
-  pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "Rare/Medium Rare/Well Done"
+  bio              : “Short biography: Facili e felici. Non-short biography: My original (vietnamese) full name is Lê Hoàng Nam. Family name: Lê; middle name: Hoàng; usually-called name: Nam. However, in English, the family name is placed last and the accents are usually omitted, so my English academic name is Hoang Nam Le. Comunque, just call me Nam.”"
   location         : "Earth"
-  employer         : "University"
+  employer         : "University of Pavia"
   uri              : # URL
   email            : "lehoangnam0950@gmail.com" 
 
